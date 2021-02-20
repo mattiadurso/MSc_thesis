@@ -1,2 +1,2 @@
-# MSc_thesis
-Computer Vision
+# MSc_thesis: title
+description
