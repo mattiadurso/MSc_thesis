@@ -1,2 +1,2 @@
 # MSc_thesis: title
-coming soon
+Coming soon, i'm still working on...
